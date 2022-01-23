@@ -1,3 +1,13 @@
+// Test Cases version 1.00
+// Mohsen Alyafei
+// Write a function shall convert Arabic string containing numbers in words
+// to an Arabic string having the numbers in words in numbers in digits
+// while ther remainder of the string remains unchanged.
+// The principle is the reverse of tafqeet.
+//
+// The following are the test cases that the function shall pass
+// written Javascript.
+//
 // Assuming that the function is called: wordsToNumbers(str)
 
 var          r =0,          // test flag
